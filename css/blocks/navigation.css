@@ -1,0 +1,12 @@
+.navigation{
+    margin: 0 20px;
+}
+.navigation__item{
+    text-decoration: none;
+    color: #000000;
+    margin: 0 10px;
+    transition: 0.5s all;
+}
+.navigation__item:hover{
+    color:orangered;
+}
