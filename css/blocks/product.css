@@ -9,6 +9,21 @@
     border:2px solid grey;
     background: center center/80% no-repeat;
 }
+.product__img_item{
+    margin: 0 auto;
+    min-height: 500px;
+    width:500px;
+    border:2px solid grey;
+    background: center center/contain no-repeat;
+}
+.product__size{
+    border: 1px solid #313131;
+    padding: 30px;
+    margin-right: 15px;
+    margin-top: 10px;
+    -webkit-transition: 0.5s all;
+    transition: 0.5s all;
+  }
 .product__name{
     text-align: center;
     font-weight: 900;

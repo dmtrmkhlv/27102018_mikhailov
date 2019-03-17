@@ -1,3 +1,6 @@
+<?php
+require_once($_SERVER['DOCUMENT_ROOT'].'/config/config.php');
+?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -12,7 +15,7 @@
 <body>
 <div class="wrapper">
     <header class="header">
-        <div class="logo"></div>
+        <a class="logo" href="/catalog"></a>
         <nav class="navigation">
             <a class="navigation__item" href="#">Женщинам</a>
             <a class="navigation__item" href="#">Мужчинам</a>
