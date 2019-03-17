@@ -4,7 +4,7 @@
 ?>
 <h1>Продукт</h1>
 <div class="catalog">
-что то
+Продукт
 </div>
 <script src="/js/catalog.js"></script>
 <?php
