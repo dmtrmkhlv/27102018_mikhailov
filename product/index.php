@@ -1,5 +1,8 @@
 <?php
-
+$cssFiles = [
+    '/css/style.css',
+    '/css/catalog.css'
+];
     include($_SERVER['DOCUMENT_ROOT'].'/parts/header.php');
 ?>
 <h1>Продукт</h1>

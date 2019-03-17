@@ -10,3 +10,24 @@
     <title>Document</title>
 </head>
 <body>
+<div class="wrapper">
+    <header class="header">
+        <div class="logo"></div>
+        <nav class="navigation">
+            <a class="navigation__item" href="#">Женщинам</a>
+            <a class="navigation__item" href="#">Мужчинам</a>
+            <a class="navigation__item" href="#">Детям</a>
+            <a class="navigation__item" href="#">Новинки</a>
+            <a class="navigation__item" href="#">О нас</a>
+        </nav>
+        <div class="user-info">
+            <div class="user-info__pic"></div>
+            <div class="user-info__text">
+                Привет, Алексей (<span class="text_active">Выйти</span>)
+            </div>
+        </div>
+        <div class="bascet">
+            <div class="bascet__pic"></div>
+            <div class="bascet__text">Корзина(5)</div>
+        </div>
+    </header>
