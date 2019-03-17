@@ -7,7 +7,7 @@ $cssFiles = [
 ?>
 <h1>Продукт</h1>
 <div class="catalog">
-Продукт
+Text
 </div>
 <script src="/js/catalog.js"></script>
 <?php
